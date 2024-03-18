@@ -1,7 +1,7 @@
 # PHP-CMS-Project
  CMS Project
  
-![home](https://github.com/smkadam2002/CMS-/assets/139140374/d43d170e-7bfa-4dc6-b398-edae60383b1d)
-![login](https://github.com/smkadam2002/CMS-/assets/139140374/bd9dd591-b69a-4ed1-8212-783b8f38ddf7)
-![likes-comments](https://github.com/smkadam2002/CMS-/assets/139140374/958b511e-f172-4f37-b9f6-4c944cfd67ca)
-![dashboard](https://github.com/smkadam2002/CMS-/assets/139140374/5c032bc4-4979-495c-92a2-90a4c9a6e9e0)
+![home](https://github.com/smkadam2002/CMS-/assets/139140374/ffef94ba-5c28-407a-89ab-4318cdc0af7e)
+![login](https://github.com/smkadam2002/CMS-/assets/139140374/28b33d59-f91e-46ca-b411-3a819e2576b3)
+![registration](https://github.com/smkadam2002/CMS-/assets/139140374/ee264ef1-048c-4285-aa6b-619161a20fd2)
+![dashboard](https://github.com/smkadam2002/CMS-/assets/139140374/4ade39a5-a47e-4a59-8508-e78d3e8cdb92)
